@@ -33,6 +33,6 @@ lkbkfhksbflksdjbgabbdsjkvhiowdbjlhiadvblzlhrislf.hlssejwoisredñxfhjcdkslwdeodgh
         <p> Esto es un código en HTML </p>
     <head>
 </html>
-´´´
+```
 
 [link](https://www.youtube.com "enlace a youtube")
