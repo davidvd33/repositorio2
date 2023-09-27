@@ -37,7 +37,7 @@ lkbkfhksbflksdjbgabbdsjkvhiowdbjlhiadvblzlhrislf.hlssejwoisredñxfhjcdkslwdeodgh
 
 [enlace a youtube](https://www.youtube.com "enlace youtube")
 
-![hulio] (https://github.com/davidvd33/repositorio2/blob/main/hulio.jpg "Hulio")
+![hulio] (https://github.com/davidvd33/repositorio2/blob/main/hulio.jpg)
 
 | Titulo | Alineación | Precios |
 |----------|:----------:|----------:|
