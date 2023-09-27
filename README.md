@@ -41,4 +41,5 @@ lkbkfhksbflksdjbgabbdsjkvhiowdbjlhiadvblzlhrislf.hlssejwoisredñxfhjcdkslwdeodgh
 
 | Titulo | Alineación | Precios |
 |----------|:----------:|----------:|
-|Col 3 es|centrada|$500|
+|Col 2 es|centrada|$500|
+|Col 3 es|Derecha|1500€|
