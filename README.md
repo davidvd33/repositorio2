@@ -37,9 +37,14 @@ lkbkfhksbflksdjbgabbdsjkvhiowdbjlhiadvblzlhrislf.hlssejwoisredñxfhjcdkslwdeodgh
 
 [enlace a youtube](https://www.youtube.com "enlace youtube")
 
-![hulio] (https://github.com/davidvd33/repositorio2/blob/main/hulio.jpg)
+![hulio](https://github.com/davidvd33/repositorio2/blob/main/hulio.jpg)
 
 | Titulo | Alineación | Precios |
 |----------|:----------:|----------:|
 |Col 2 es|centrada|$500|
 |Col 3 es|Derecha|1500€|
+
+###### Exámen
+-[] Opción A
+-[] Opción B
+-[] Opción C
